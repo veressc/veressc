@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @veressc, love ML | AI | programming. 
 - 👀 I’m interested in Cars, AI & ML and aviation
-- 📫 How to reach me: Telegram -- @Veresscq / mail: corsairsv@gmail.com
+- 📫 How to reach me: 
+Telegram -- @Veresscq  
+email: corsairsv@gmail.com
 - ⚡ Fun fact: Never been in USA
 
 <!---
