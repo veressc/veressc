@@ -3,7 +3,7 @@
 - 📫 How to reach me: 
 Telegram -- @Veresscq  
 email: corsairsv@gmail.com
-- ⚡ Fun fact: Never been in USA
+
 
 <!---
 veressc/veressc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
